@@ -5,4 +5,4 @@ Mo 人工智能俱乐部是由人工智能在线建模平台（网址：momodel.
 
 
 目前团队每周六在杭州举办以机器学习为主题的线下技术沙龙活动，不定期进行论文分享与学术交流。希望能汇聚来自各行各业对人工智能感兴趣的朋友，不断交流共同成长，推动人工智能民主化、应用普及化。
-
+![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1557296098446-1f1b8586-bd60-4292-b627-a751322fa93c.jpeg#align=left&display=inline&height=540&originHeight=540&originWidth=1114&size=0&status=done&width=1114)
